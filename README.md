@@ -1,3 +1,11 @@
+# Building Front-End app with React
+
+**Link to the trainning :**  [Learn Reactjs with context api, redux, axios, thunk](https://www.youtube.com/watch?v=p3NlSq0cAgA&list=PL6WnVoBkDfDRx5CkEgaMWdTDzzfatZWbA)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
